@@ -1,4 +1,4 @@
 # HTML
 ## HTML FORM 
-Welcome to my short html form project. This project is dedicate for string quartet, that can fast contact interview clients. This project contain general HTML form stucture, most importatnt to prepare basic form.
+Welcome to my short HTML form project. This project is dedicated to a string quartet, aiming to provide a convenient way for them to quickly contact and interview potential clients. It comprises a basic HTML form structure, essential for setting up the form easily.
 
